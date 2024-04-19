@@ -1,11 +1,11 @@
 
 ---
 layout: post
-# title: Summary Discussion 2
-# subtitle: CVSS
-# categories: Discussion
+title: Discussion 2 CVSS
+subtitle: Summary
+categories: Discussion
+tags: [discussion]
 ---
-
 
 <H1> Summary – discussion 2 CVSS </H1>
 

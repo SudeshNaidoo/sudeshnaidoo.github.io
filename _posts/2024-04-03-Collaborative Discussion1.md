@@ -1,5 +1,11 @@
 Collaborative Discussion 1
-
+---
+layout: post
+title: Discussion 1
+subtitle: Summary
+categories: Discussion
+tags: [discussion]
+---
 <!DOCTYPE html>
 <html>
 <head>
@@ -78,4 +84,4 @@ Shevchenko, N. (2018) Threat modeling: A summary of available methods, SEI Digit
 
 </body>
 </html>
-Sudesh74.RiskManagement.github.io/Sec and Risk /Collab Discussion_1.md at main · Sudesh74/Sudesh74.RiskManagement.github.io
+

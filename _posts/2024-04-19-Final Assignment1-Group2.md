@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sudesh's Assignment
+title: Group 2 Assignment
 subtitle: Group 2
 categories: Assignment
 tags: [Assignment, unit]

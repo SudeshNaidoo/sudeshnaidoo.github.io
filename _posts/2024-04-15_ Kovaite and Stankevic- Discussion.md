@@ -1,3 +1,13 @@
+---
+layout: post
+title: Discussion 
+subtitle: Risks of Digitilisation
+categories: Discussion
+tags: [discussion, intro, certificate]
+---
+
+## Discussion on Risks of Digitalisation of Business Models
+
 <H1> Discussion on Risks of Digitalisation of Business Models paper by Kovaite and Stankeviciene </H1>
 
 <p>The authors of this paper have referenced a few articles and authors to describe the term industry 4.0 as a transformation of business models through technological drivers, such as Internet of Things, cloud technology, big data; artificial intelligence, and related issues (Kovaitė and Stankevičienė, 2019). They also amalgamate their definition of industry 4.0 into the term Internationalisation which this paper's case study is about.

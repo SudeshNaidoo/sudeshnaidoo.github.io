@@ -1,3 +1,13 @@
+---
+layout: post
+title:  GDPR Discussion
+subtitle: GDPR case study
+categories: Discussion
+tags: [discussion, unit, seminar]
+---
+
+## GDPR case study: Case study 1:
+
 Unit 5 -GDPR case study: Case Study 1 : Prosecution of Guerin Media Limited 
 <!DOCTYPE html>
 <html>

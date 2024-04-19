@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Threat Model
+title: Threat Model - Attack tree
 subtitle: design Attack tree and STRIDE
 categories: Assignment 1
 tags: [Assignment, unit]

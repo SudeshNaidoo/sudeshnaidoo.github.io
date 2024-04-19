@@ -1,19 +1,14 @@
-
+---
 layout: post
-title: Final Assignment 
+title: Sudesh's Assignment
 subtitle: Group 2
 categories: Assignment
-tags: [assignment, unit]
+tags: [Assignment, unit]
 ---
 
-## Final Assignment - Group 2
-
-[assignment1]: https://sudeshnaidoo.github.io/assets/pdf/2024-04-12FinalAssignment1-Group2.pdf
+## Assignment 1 - Group 2
 
 
 
-Click link to view PDF
-
-[finalassignment] [assignment1]
-
-
+[docs]: https://sudeshnaidoo.github.io/assets/pdf/2024-04-12FinalAssignment1-Group2.pdf
+Please find our assignment here -> [here][docs]

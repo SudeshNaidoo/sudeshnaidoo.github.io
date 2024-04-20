@@ -5,7 +5,7 @@ subtitle: Summary
 categories: assignment
 tags: [assignment]
 --- 
-## Assignment 2- Executive summary
+## Assignment 2- Executive summary.
 
 <H2>Executive Summary</H2>
 <p>There are five trends as per Viswanathan, R., & Telukdarie, A. (2021),mentioned in their paper, a systems dynamics approach to SME digitalization, which states that the first requirement for business to govern the future working culture of SME's is that business need to operate online, and the decision to go digital is an important factor that your company has decided to take. The issue you may encounter once digitalized will be finding  capable resources and upskilling of current staff, as support becomes crucial for sustainability models (Viswanathan, R. et al. 2021).</P>

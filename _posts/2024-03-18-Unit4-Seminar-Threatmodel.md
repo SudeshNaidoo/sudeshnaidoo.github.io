@@ -8,4 +8,4 @@ tags: [Assignment, unit]
 
 ## Assignment  - Threat Model
 
-![image](fSudeshNaidoo/sudeshnaidoo.github.io/assets/images/banners/Unit4SeminarThreatmodel.jpg)
+![image](https://sudeshnaidoo.github.io/assets/images/banners/Unit4SeminarThreatmodel.jpg)

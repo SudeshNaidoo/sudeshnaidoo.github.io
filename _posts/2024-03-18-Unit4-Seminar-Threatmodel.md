@@ -10,5 +10,5 @@ tags: [Assignment, unit]
 
 
 
-[docs]: https://sudeshnaidoo.github.io/assets/images/banners/Unit4SeminarThreatmodel.jpg
-Please find our assignment here -> [here][docs]
+[docs]: https://SudeshNaidoo/sudeshnaidoo.github.io/assets/images/banners/Unit4SeminarThreatmodel.jpg
+click here to see diagram -> [here][docs]

@@ -10,6 +10,6 @@ tags: [seminar, unit]
 
 
 
-# [docs]: https://sudeshnaidoo.github.io/assets/pdf/Seminar10DR.pdf
+[docs]: https://sudeshnaidoo.github.io/assets/pdf/Seminar10DR.pdf
 Please find our assignment here -> [here][docs]
 

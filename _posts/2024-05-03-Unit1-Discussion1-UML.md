@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Secure Software Development : Discussion 1
+title: Secure Software Development- Discussion 1
 subtitle: Secure Software Development
 categories: Unit
 tags: [discussion, unit]

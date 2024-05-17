@@ -8,7 +8,7 @@ tags: [discussion, unit]
 
 ##SSD Discussion 1 -week 2 - Peer Responses 
 
-<H2>Unit 1 - week 2 -discussion -peer response2 </H2>
+<H2>Unit 1 - week 2 -discussion -peer response *2 </H2>
 
 ##Peer Response 1
 

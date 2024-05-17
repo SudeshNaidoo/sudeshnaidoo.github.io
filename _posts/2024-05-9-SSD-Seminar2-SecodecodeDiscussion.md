@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Secure Software Development- Discussion 1 -Semianr 2

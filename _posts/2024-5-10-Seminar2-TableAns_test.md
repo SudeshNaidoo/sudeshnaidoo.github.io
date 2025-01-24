@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Module 7 exe
+title: Module 9 exe
 subtitle: Research Module
 categories: excercise
 tags: [exercise, module]
@@ -9,6 +9,14 @@ tags: [exercise, module]
 
 
 [docs]: https://sudeshnaidoo.github.io/assets/7DataAnnexe1.docx
-Please find the module 7 Data Annexe1 here -> [here][docs]
+[docs]: https://sudeshnaidoo.github.io/assets/Exa9.1D_Completed.xlsx
+[docs]: https://sudeshnaidoo.github.io/assets/Exa9.1D_ex9.4_completed.xlsx
+[docs]: https://sudeshnaidoo.github.io/assets/Exa9.2E_complete.xlsx
+[docs]: https://sudeshnaidoo.github.io/assets/Exa9.3B(Complete).xlsx
+[docs]: https://sudeshnaidoo.github.io/assets/Exa9.3B_Completed.xlsx
+[docs]: https://sudeshnaidoo.github.io/assets/Exa9.2D_completed.xlsx
+[docs]: https://sudeshnaidoo.github.io/assets/Exe9.2D_ex9.5_Completed.XLsx
+
+Please find the module 9 exercises here -> [here][docs]
 
 

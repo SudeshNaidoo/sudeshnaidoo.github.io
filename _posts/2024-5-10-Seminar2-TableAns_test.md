@@ -2,7 +2,7 @@
 layout: post
 title: Module 7 exe
 subtitle: Research Module
-categories: execercise
+categories: excercise
 tags: [exercise, module]
 ---
 

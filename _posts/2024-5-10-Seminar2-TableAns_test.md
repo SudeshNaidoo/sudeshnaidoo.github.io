@@ -14,8 +14,8 @@ Sharma, A. & Bawa, R. K. (2020) Identification and Integration of Security Activ
 
 <H2>Seminar 2 - answer table </H2>
 
-[docs]: https://sudeshnaidoo.github.io/assets/images/banners/Seminar2 Table2.pdf
-Please find the Table here -> [here][docs]
+[docs]: https://sudeshnaidoo.github.io/assets/7DataAnnexe1.docx
+Please find the module 7 Data Annexe1 here -> [here][docs]
 
 
 <H2>Reference : </H2>

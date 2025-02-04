@@ -1,7 +1,7 @@
 <H1>Importance of doing a literature review <H1>
-<P1>
+<p>
 This was the first literature review that I completed. At the beginning I was not sure why it was required and what the value of doing this work would be. But consequently this is a very important document when doing a research paper. It helps clarify the amount of literature available and helps steer your final paper. Steering you in a direction of either more research required on a specific topic or clarifying what questions you need to answer. Most importantly it clarifies the amount of research available on a topic.
-The literature review also helps identify when this particular topic may have been first been identified and discussed.</P1> 
+The literature review also helps identify when this particular topic may have been first been identified and discussed.</p> 
 
 
 <H2>State-sponsored cyberterrorism in global politics </H2>

@@ -1,6 +1,6 @@
 
 #unit; #Reasearch
-<H1> e-Portfolio Activity: Reflective Activity 1 – Ethics in Computing in the age of Generative AI < /H1>
+<H1> e-Portfolio Activity: Reflective Activity 1 – Ethics in Computing in the age of Generative AI </H1>
 
 <P>After reviewing the article and reading how different countries across the world deal with the generative AI revolution, discuss your views on the subject and recommend what you think could be a suitable course of action. You should justify your stance by also reviewing any papers included in this study or other relevant literature (additional links to industry have been provided as ‘Other Resources’ to the module). Your discussion should also highlight the impact your actions would have on applicable legal, social and professional issues. Please note that there is no right or wrong answer here, this exercise is to help you evaluate the legal, social ethical and professional issues that affect computing professionals in industry.
 The word count is 1,000 for the reflection piece. You will have to include this in your e-portfolio, but you can submit it to your tutor for formative feedback before Week 12.</P>
